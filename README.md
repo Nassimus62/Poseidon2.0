@@ -8,7 +8,7 @@
 > - **Automated Event Detection**: Identifies multiple types of oceanographic events  
 > - **Interactive Visualization**: Real-time plotting with event annotations  
 > - **Export Capabilities**: Generate detailed Excel reports and charts  
-> - **Weather Module**: Displays **temperature**, **wind speed**, and **atmospheric pressure** at a user-defined location (via latitude and longitude input).  
+> - **Weather Module**: Displays **temperature**, **wind speed**, and **atmospheric pressure** at a user-defined location. 
 
 ### Event Detection Capabilities  
 
