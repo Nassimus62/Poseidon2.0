@@ -1,4 +1,4 @@
-# Poseidon - Sea-Level Event Interpreter  
+# Poseidon - Advanced Oceanographic Analysis Tool
 > A sophisticated web application for analyzing sea-level time series data and automatically detecting oceanographic events including tidal phases, storm surges, seiches, and wave patterns.  
 
 ## Features  
